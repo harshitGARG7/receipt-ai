@@ -1,0 +1,24 @@
+[
+  {
+    "id": "20251206005644",
+    "image": "images/receipt_20251206005644.png",
+    "text": "THE COFFEE SHOP\n\n1234 Main Street\nCity, State 12345\n123-456-7890\n\nORDER #: 5678\nDATE: 05/17/2024 TIME: 10:32 AM\n\nITEMS\n\nLatte $4.50\nBlueberry Muffin $2.75\nSUBTOTAL $7.25\nTAX (8.5%) $0.62\nTOTAL $7.87\nCASH $10.00\n\nCHANGE $2.13\nTHANK YOU!\n",
+    "parsed": {
+      "store": "THE COFFEE SHOP",
+      "date": null,
+      "total": "7.87",
+      "items": [
+        {
+          "name": "City, State",
+          "price": "12345"
+        },
+        {
+          "name": "ORDER #:",
+          "price": "5678"
+        }
+      ],
+      "category": "Groceries",
+      "summary": "Detected 2 items, total 7.87"
+    }
+  }
+]
