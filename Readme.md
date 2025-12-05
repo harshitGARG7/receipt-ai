@@ -1,16 +1,16 @@
 this is made by harsht garg
 
-# Receipt AI
-
-A simple AI-powered receipt scanning application using OCR + LLMs to extract structured data from receipts.
-
----
-
 ## Screenshots
 
 | Screenshot 1                           | Screenshot 2                           |
 | -------------------------------------- | -------------------------------------- |
 | ![Screenshot1](assets/screenshot1.png) | ![Screenshot2](assets/screenshot2.png) |
+
+# Receipt AI
+
+A simple AI-powered receipt scanning application using OCR + LLMs to extract structured data from receipts.
+
+---
 
 ## 🚀 Features
 
