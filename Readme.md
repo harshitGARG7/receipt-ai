@@ -2,8 +2,8 @@ this is made by harsht garg
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/harshitGARG7/receipt-ai/main/assets/screenshot1.png" width="400"/>
-<img src="https://raw.githubusercontent.com/harshitGARG7/receipt-ai/main/assets/screenshot2.png" width="400"/>
+<img src="https://raw.githubusercontent.com/harshitGARG7/receipt-ai/main/assets/Screenshot1.png" width="400"/>
+<img src="https://raw.githubusercontent.com/harshitGARG7/receipt-ai/main/assets/Screenshot2.png" width="400"/>
 
 # Receipt AI
 
