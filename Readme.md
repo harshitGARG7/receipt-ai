@@ -2,9 +2,8 @@ this is made by harsht garg
 
 ## Screenshots
 
-| Screenshot 1                           | Screenshot 2                           |
-| -------------------------------------- | -------------------------------------- |
-| ![Screenshot1](assets/screenshot1.png) | ![Screenshot2](assets/screenshot2.png) |
+![Screenshot1](https://raw.githubusercontent.com/harshitGARG7/receipt-ai/main/assets/screenshot1.png)
+![Screenshot2](https://raw.githubusercontent.com/harshitGARG7/receipt-ai/main/assets/screenshot2.png)
 
 # Receipt AI
 
