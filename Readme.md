@@ -9,6 +9,7 @@ this is made by harsht garg
 # Receipt AI
 
 A simple AI-powered receipt scanning application using OCR + LLMs to extract structured data from receipts.
+📌 View live : https://receipt-ai.onrender.com/
 
 ---
 
@@ -102,18 +103,25 @@ receipt-ai/
 
 ---
 
-## 📝 TODO / Next Steps
+## 🛣️ Roadmap / Upcoming Features
 
-- Add UI to upload receipts
-- Store parsed expenses by category
-- Support multiple formats & currencies
-- Deploy frontend on Vercel
+Here are some planned improvements for future releases:
+
+- [ ] Web UI for easier receipt upload
+- [ ] Support for PDF receipts
+- [ ] Multi-currency detection and conversion
+- [ ] Cloud OCR option (Google Vision / AWS Textract)
+- [ ] Export parsed receipts to Excel / CSV
+- [ ] Dashboard with analytics (monthly spend / category charts)
+- [ ] Automatic category classification using ML
+- [ ] Multi-language extraction
+- [ ] Add user authentication
 
 ---
 
-## 🤝 Contributing
+### 💡 Suggestions & Contributions
 
-PRs and issues are welcome!
+Have ideas to improve this project? Feel free to create an **issue** or start a **discussion**!
 
 ---
 
