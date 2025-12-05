@@ -2,8 +2,6 @@ this is made by harsht garg
 
 ## Screenshots
 
-## Screenshots
-
 | Screenshot 1                           | Screenshot 2                           |
 | -------------------------------------- | -------------------------------------- |
 | ![Screenshot1](assets/Screenshot1.png) | ![Screenshot2](assets/Screenshot2.png) |
