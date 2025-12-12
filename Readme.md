@@ -1,4 +1,4 @@
-This is made by Harshit Garg
+# This is made by Harshit Garg
 
 ## Screenshots
 
